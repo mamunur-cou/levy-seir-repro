@@ -4,9 +4,9 @@
 This repository contains my from-scratch implementation and reproduction of the Levy SEIR model. The goal is to understand how Levy processes (stochastic jumps) affect the spread of infectious diseases compared to the standard deterministic SEIR model.
 
 ## 📄 Original Paper
-- **Paper Title:** *To be added*
-- **Authors:** *To be added*
-- **Link:** *To be added*
+- **Paper Title:** Stochastic analysis of COVID-19 by a SEIR model with Lévy noise
+- **Authors:** Yamin Ding, Yuxuan Fu, Yanmei Kang
+- **Link:** https://doi.org/10.1063/5.0003705
 
 ## 🎯 Objectives
 - [ ] Implement the standard deterministic SEIR model.
