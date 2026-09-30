@@ -49,6 +49,7 @@ $$
 - NumPy / SciPy
 - Matplotlib
 - Jupyter Notebook
+- kaggle
 
 ## 📂 Repository Structure
 - `data/` : Data files (if any)
